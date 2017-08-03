@@ -1,0 +1,11 @@
+{
+  "name": "rogue_shooter",
+  "version": "1.0.0",
+  "description": "a 2d shooter test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "vida",
+  "license": "ISC"
+}
